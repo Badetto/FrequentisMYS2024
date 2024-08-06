@@ -13,7 +13,7 @@ public class Main {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
-            i = i + 8;
+            i = i + 2;
             List<Integer> myList = new ArrayList<>();
             for (int j = 1; j<=i; j++){
                 myList.add(j);
